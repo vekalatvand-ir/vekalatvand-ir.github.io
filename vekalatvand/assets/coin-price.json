@@ -1,0 +1,15 @@
+{
+  "symbol": "SEKE_EMAMI",
+  "label_fa": "سکه تمام بهار آزادی (امامی)",
+  "unit": "toman",
+  "price_toman": 264000000,
+  "price_rial": 2640000000,
+  "updated_at": "2026-11-25",
+  "updated_at_tehran": "2026-11-25 12:27",
+  "updated_ts": 1795597075,
+  "next_update_due": "2026-11-25T16:57:55Z",
+  "update_cycle_hours": 8,
+  "source": "tgju-profile-sekee",
+  "source_url": "https://www.tgju.org/profile/sekee",
+  "note_fa": "قیمت خودکار هر ۸ ساعت به‌روز می‌شود. ملاک نهایی دادگاه، قیمت روز پرداخت است."
+}
