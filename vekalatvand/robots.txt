@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vekalatvand-ir.github.io/vekalatvand/sitemap.xml
